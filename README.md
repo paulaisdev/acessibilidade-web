@@ -3,24 +3,24 @@
 
 Repositório destinado à organização e exemplificação de conteúdo para Palestra no PrograMaria Summit 2019.
 
-<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="300" width="300">
+<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="500" width="500">
 
 ---
 
 ## Acessibilidade
 
-### - [ ] O que é
+### O que é
 Inserir aqui definição
 
-###  - [ ] Acessibilidade Web
+### Acessibilidade Web
 Inserir aqui definição
 - [WCAG 2.0](https://www.w3.org/Translations/WCAG20-pt-PT/);
 
 - [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
 
-### - [ ] Princípios da Acessibilidade Web
+### Princípios da Acessibilidade Web
 
-<img src="https://devvly.com/files/2019-04/wcga-principles.png" height="300" width="300">
+<img src="https://devvly.com/files/2019-04/wcga-principles.png" height="500" width="500">
 
 **Perceptível**: a informação e os componentes da interface do usuário precisam ser apresentados aos usuários de maneira que eles consigam percebê-las.
   - [ ] Alternativas em Texto: Fornecer alternativas em texto para todo o conteúdo não textual de modo a que o mesmo possa ser apresentado de outras formas, de acordo com as necessidades dos utilizadores, como por exemplo: caracteres ampliados, braille, fala, símbolos ou uma linguagem mais simples.
@@ -71,11 +71,11 @@ Inserir aqui definição
 
 
 
-### - [ ] Acessibilidade Web Cognitiva
+### Acessibilidade Web Cognitiva
 
 
 
-### - [ ] Acessibilidade nas Ferramentas de Desenvolvimento
+### Acessibilidade nas Ferramentas de Desenvolvimento
 
 -[A guide to coding accessible developer tools](https://increment.com/development/a-guide-to-coding-accessible-developer-tools/)
 
@@ -86,6 +86,10 @@ Inserir aqui definição
 -[Formação Carreira Acessibilidade Alura](https://cursos.alura.com.br/formacao-acessibilidade-web)
 
 -[Cursos sobre Acessibilidade na Udemy](https://hipsters.tech/acessibilidade-web-hipsters-21/)
+
+-[HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+
+-[Arial-Label atribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
 
 -[Podcast - Programar Sem Enxergar](https://hipsters.tech/programar-sem-enxergar-hipsters-82/)
 
