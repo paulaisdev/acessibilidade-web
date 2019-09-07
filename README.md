@@ -54,6 +54,7 @@ Inserir aqui definição
 ## Acessibilidade & Design
 
 Princípios aplicados na idealização de um site web e no seu design.
+
 <img src="https://miro.medium.com/max/1000/1*gRVRhuUwG12_9Xl7GwH1TA.png" height="400" width="400">
 
 
