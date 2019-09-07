@@ -3,7 +3,7 @@
 
 Repositório destinado à organização e exemplificação de conteúdo para Palestra no PrograMaria Summit 2019.
 
-<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="500" width="500">
+<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="900" width="900">
 
 ---
 
