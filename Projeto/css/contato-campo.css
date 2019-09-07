@@ -1,0 +1,147 @@
+.contato-campo {
+  margin: .8em auto;
+  max-width: 600px;
+  position: relative;
+}
+
+.contato-campo__label {
+  position: relative;
+}
+
+.contato-campo__label:before {
+  content:'';
+  vertical-align: middle;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  background-color: #fff;
+  transform: translate(-7px, -3px);
+  border: 1px solid #7D7D7D;
+  color: transparent;
+  line-height: 1;
+  transition: background-color .2s ease-in, color .2s ease-in;
+  box-sizing: border-box;
+}
+
+.contato-campo__checkbox:hover + .contato-campo__label:before,
+.contato-campo__checkbox:focus + .contato-campo__label:before {
+  border: 2px solid #333;
+}
+
+.contato-campo__checkbox:checked + .contato-campo__label:before {
+  content: '';
+  color: #fff;
+  background-image: radial-gradient(circle, #2DA4E7, #2F80ED);
+  border-color: #015fbe;
+  line-height: .8;
+}
+
+.contato-campo__checkbox:checked + .contato-campo__label:after {
+  content: '';
+  width: 10px;
+  height: 5px;
+  display: block;
+  border-bottom: 2px solid #fff;
+  border-left: 2px solid #fff;
+  transform: rotate(-45deg);
+  position: absolute;
+  z-index: 2;
+  left: -3px;
+  top: 5px;
+}
+
+
+
+.contato-campo__checkbox {
+/*  display: none;*/
+/*  visibility: hidden*/
+  left: -9999px;
+  position: absolute;
+  opacity: 0;
+}
+
+.contato-campo__icone {
+  position: absolute;
+  left: -2em;
+  top: 2.5em;
+  width: 1.5em;
+}
+
+.contato-campo label,
+.contato-campo input:not([type='checkbox']),
+.contato-campo textarea {
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+.contato-campo label {
+  margin-bottom: 5px;
+  margin-left: 8px;
+}
+
+.contato-campo input,
+.contato-campo textarea {
+  font-size: 1em;
+  padding: .5em;
+  min-height: 50px;
+  border-radius: 8px;
+  border: 2px solid #ccc;
+  outline: 0;
+}
+
+.contato-campo input:focus,
+.contato-campo textarea:focus {
+  border: 2px solid #222;
+}
+
+.contato-campo__campoDesabilitado {
+  background-color: #ddd;
+}
+
+.contato-campo__msg,
+.formContato-validacao {
+  margin-left: 4px;
+  margin-top: 4px;
+  font-size: .9em;
+  font-weight: bold;
+  color: #FD1242;
+  display: none;
+}
+
+.contato-campo .contato-campo__validouFoi {
+  border: 2px solid #219653;
+  background-color: #fff;
+  position: relative;
+}
+
+.contato-campo .contato-campo__validouErro {
+  border: 2px solid #FF0000;
+  background-color: #fff;
+  position: relative;
+}
+
+.contato-campo__sucesso:before {
+  content: '';
+  display: inline-block;
+  width: 33px;
+  height: 32px;
+  position: absolute;
+  z-index: 1;
+  right: .4em;
+  transform: translateY(112%) scale(.65);
+  background-image: url(../img/validacao-sucesso.png);
+}
+
+.contato-campo__erro:before {
+  content: '';
+  display: inline-block;
+  width: 33px;
+  height: 32px;
+  position: absolute;
+  z-index: 1;
+  right: .4em;
+  transform: translateY(112%) scale(.65);
+  background-image: url(../img/validacao-erro.png);
+}

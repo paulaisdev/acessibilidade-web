@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', 'Segoe UI', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #2F80ED;
+}
+
+fieldset {
+  border: 0;
+}

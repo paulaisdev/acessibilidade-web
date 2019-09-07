@@ -1,0 +1,112 @@
+.secao-planos {
+  text-align: center;
+  background-color: #F7F4F4;
+}
+
+.secao-planos__plano {
+  border-radius: 5px;
+  background-color: #fff;
+  width: 80%;
+  margin: 0 .5em 2em .5em;
+  padding-bottom: 2em;
+  box-shadow: 0 2px 9px #ddd;
+  max-width: 300px;
+  display: inline-block;
+
+}
+
+.secao-planos__plano--start {
+  color: #56CCF2;
+}
+
+.secao-planos__plano--ultra {
+  color: #B04CD9;
+}
+
+.secao-planos__plano--mega {
+  color: #E33B3B;
+}
+
+.secao-planos__plano-titulo {
+  color: inherit;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  width: 100%;
+  padding: .4em 1em;
+  font-size: 1.5em;
+  border-bottom: 1px solid #DFE3E5;
+  margin-bottom: .5em;
+}
+
+.secao-planos__plano-moeda {
+  font-size: .4em;
+  font-weight: normal;
+  vertical-align: top;
+  line-height: 2.5;
+  position: absolute;
+  left: -1.4em;
+}
+
+.secao-planos__plano-preco {
+  color: inherit;
+  text-align: center;
+  font-size: 3em;
+  margin-top: 12px;
+  font-family: 'Montserrat', sans-serif;
+  display: inline;
+  position: relative;
+}
+
+.secao-planos__plano-itens {
+  text-align: left;
+  padding-left: 30px;
+  margin: 1em auto 1.5em auto;
+  line-height: 2;
+  list-style: disc;
+  color: #666;
+  width: 240px;
+}
+
+.secao-planos__plano-btn {
+  color: inherit;
+  font-weight: bold;
+  background-color: transparent;
+  border-width: 1px;
+  border-style: solid;
+  border-color: inherit;
+  padding: .4em 1.5em;
+  transition: .1s ease-in;
+}
+
+.secao-planos__plano-btn:hover,
+.secao-planos__plano-btn:focus {
+  color: #fff;
+}
+
+.secao-planos__plano:nth-of-type(1) .secao-planos__plano-btn:hover,
+.secao-planos__plano:nth-of-type(1) .secao-planos__plano-btn:focus {
+  background-color: #56CCF2;
+}
+
+.secao-planos__plano:nth-of-type(2) .secao-planos__plano-btn:hover,
+.secao-planos__plano:nth-of-type(2) .secao-planos__plano-btn:focus {
+  background-color: #B04CD9;
+}
+
+.secao-planos__plano:nth-of-type(3) .secao-planos__plano-btn:hover,
+.secao-planos__plano:nth-of-type(3) .secao-planos__plano-btn:focus {
+  background-color: #E33B3B;
+}
+
+.secao-planos__plano-titulo--destaque {
+  background-color: #B72E2E;
+}
+
+
+@media (min-width: 830px) {
+
+  .secao-planos__plano {
+    max-width: 260px;
+  }
+
+}

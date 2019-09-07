@@ -1,0 +1,37 @@
+.secao-descubra {
+  color: #666;
+  text-align: center;
+}
+
+.secao-descubra__endereco {
+  font-size: 1.3em;
+  font-style: italic;
+  line-height: 1.5;
+  margin: 1.2em 0;
+}
+
+.secao-descubra__telefone {
+  font-size: 1.2em;
+}
+
+.secao-descubra__video {
+  width: 100%;
+  max-width: 550px;
+  display: inline-block;
+  margin-top: 30px;
+}
+
+@media (min-width: 830px) {
+
+  .secao-descubra__coluna {
+    float: left;
+    text-align: left;
+    width: 40%;
+  }
+
+  .secao-descubra__video {
+    width: 40%;
+    margin-top: 0;
+  }
+
+}

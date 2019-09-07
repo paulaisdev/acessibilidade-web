@@ -1,0 +1,102 @@
+.escondeVisualmente {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+li[aria-hidden='true'] { display: none; }
+li[aria-hidden='false'] { display:block ; }
+
+
+.overlayDialog:before {
+  content: '';
+  background-color: rgba(0, 0, 0, .4);
+  position: fixed;
+  z-index: 2;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+} 
+
+.pularNavegacao {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  display: block;
+  color: transparent;
+  position: absolute;
+}
+
+
+.clearfix:after { 
+  content: "."; 
+  visibility: hidden; 
+  display: block; 
+  height: 0; 
+  clear: both;
+}
+
+
+.apenasLeitorDeTela {
+  position: absolute;
+  z-index: -1;
+}
+
+.container {
+  padding: 3.5em 5%;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.tituloPadrao {
+  font-family: 'Montserrat', serif;
+  margin-bottom: 1em;
+  color: #4F4C4C;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.btnPadrao {
+  border-radius: 5px;
+  border: 0;
+  background-color: #B72E2E;
+  color: #fff;
+  font-size: 1.2em;
+  padding: .3em 1em;
+  font-family: 'Open Sans', 'Segoe UI', sans-serif;
+  outline: 0;
+  text-decoration: none;
+}
+
+.btnPadrao:hover,
+.btnPadrao:focus {
+  background-image: linear-gradient(rgba(255, 255, 255, .05), rgba(255, 255, 255, .05));
+  cursor: pointer;
+}
+
+.btnPadrao--pequeno {
+  font-size: 1em;
+}
+
+@media (min-width: 830px) {
+  .container {
+    width: 1200px;
+    width: 800px;
+    padding-left: 0;
+    padding-right: 0;
+    padding: 3.5em 2em;
+  }
+}
+
+@media (min-width: 1065px)  {
+  .container {
+    width: 1000px;
+  }
+}

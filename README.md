@@ -2,8 +2,9 @@
 ## PrograMaria Summit 2019
 
 Repositório destinado à organização e exemplificação de conteúdo para Palestra no PrograMaria Summit 2019.
+O repositório será atualizado ao longo do tempo, assim como o projeto de referência. Além disso, o projeto é fruto de estudos e formações em cursos - portanto, não é totalmente original. 
 
-<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="900" width="900">
+<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="1500" width="1500">
 
 ---
 
@@ -26,7 +27,7 @@ Inserir aqui definição
   - [ ] Alternativas em Texto: Fornecer alternativas em texto para todo o conteúdo não textual de modo a que o mesmo possa ser apresentado de outras formas, de acordo com as necessidades dos utilizadores, como por exemplo: caracteres ampliados, braille, fala, símbolos ou uma linguagem mais simples.
   - [ ] Mídia Dinâmica ou Contínua: Fornecer alternativas para conteúdo em multimídia dinâmica ou temporal.
   - [ ] Adaptável: Criar conteúdo que possa ser apresentado de diferentes formas (por ex., um esquema de página mais simples) sem perder informação ou estrutura.
-  -[ ] Distinguível: Facilitar aos utilizadores a audição e a visão dos conteúdos nomeadamente através da separação do primeiro plano do plano de fundo.
+  - [ ] Distinguível: Facilitar aos utilizadores a audição e a visão dos conteúdos nomeadamente através da separação do primeiro plano do plano de fundo.
 
 **Operável**: os componentes da interface do usuário e sua navegação devem ser operáveis.
 
@@ -45,10 +46,6 @@ Inserir aqui definição
 **Robusto**: o conteúdo tem que ser robusto o suficiente para ser interpretado de maneira confiável por uma grande variedade de agentes de usuários, incluindo tecnologias assistivas.
 
   - [ ] Compatível: Maximizar a compatibilidade com os agentes de utilizador atuais e futuros, incluindo as tecnologias de apoio.
-
-
-- [Web Accessibility, WCGA 2.0, and Drupal 8](https://devvly.com/entry/web-accessibility-wcga-2-0-and-drupal-8)
-- [Drupal](https://www.drupal.org/try-drupal)
 
 
 ## Acessibilidade & Design
@@ -88,6 +85,10 @@ O uso de leitores de tela pode ser indicado para teste do website. Alguns conhec
 ## Mais alguns Links Úteis e Curiosidades
 
 -[Cartilha: Acessibilidade na Web (inclui informações legais e dados)](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-II.pdf)
+
+- [Web Accessibility, WCGA 2.0, and Drupal 8](https://devvly.com/entry/web-accessibility-wcga-2-0-and-drupal-8)
+
+- [Drupal](https://www.drupal.org/try-drupal)
 
 -[HandTalk - Oferecemos tradução digital para acessibilidade em Libras, a Língua Brasileira de Sinais.](https://www.handtalk.me/)
 
