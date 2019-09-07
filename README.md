@@ -20,7 +20,7 @@ Inserir aqui definição
 
 ### Princípios da Acessibilidade Web
 
-<img src="https://devvly.com/files/2019-04/wcga-principles.png" height="500" width="500">
+<img src="https://devvly.com/files/2019-04/wcga-principles.png" height="400" width="400">
 
 **Perceptível**: a informação e os componentes da interface do usuário precisam ser apresentados aos usuários de maneira que eles consigam percebê-las.
   - [ ] Alternativas em Texto: Fornecer alternativas em texto para todo o conteúdo não textual de modo a que o mesmo possa ser apresentado de outras formas, de acordo com as necessidades dos utilizadores, como por exemplo: caracteres ampliados, braille, fala, símbolos ou uma linguagem mais simples.
@@ -53,13 +53,18 @@ Inserir aqui definição
 
 ## Acessibilidade & Design
 
+Princípios aplicados na idealização de um site web e no seu design.
+<img src="https://miro.medium.com/max/1000/1*gRVRhuUwG12_9Xl7GwH1TA.png" height="400" width="400">
 
 
 ## Acessibilidade & User Experience (UX)
 
 
 
-## Acessibilidade & Códigos
+## Acessibilidade & Práticas
+
+O uso de leitores de tela pode ser indicado para teste do website. Alguns conhecidos são o [JAWS](https://www.freedomscientific.com/Products/software/JAWS/), o [NVDA](https://www.nvaccess.org/) e, no caso do Mac, o [VoiceOver](https://www.apple.com/br/accessibility/mac/vision/) - leitor que vem integrado ao sistema operacional. Há também o **Narrador** no Windows, e outros.
+
 
 
 
@@ -79,7 +84,13 @@ Inserir aqui definição
 
 -[A guide to coding accessible developer tools](https://increment.com/development/a-guide-to-coding-accessible-developer-tools/)
 
-## Mais alguns Links Úteis
+## Mais alguns Links Úteis e Curiosidades
+
+-[Cartilha: Acessibilidade na Web (inclui informações legais e dados)](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-II.pdf)
+
+-[HandTalk - Oferecemos tradução digital para acessibilidade em Libras, a Língua Brasileira de Sinais.](https://www.handtalk.me/)
+
+-[IA do Facebook para reconhecimento de imagens](https://ai.facebook.com/tools/detectron/)
 
 -[Web Accessibility Standards (WAS)](https://accessible.org/was/)
 
@@ -91,11 +102,21 @@ Inserir aqui definição
 
 -[Arial-Label atribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
 
+-[Acessibilidade, SEO e SVG](http://www.reinaldoferraz.com.br/acessibilidade-seo-e-svg/)
+
+-[Frontinsampa 2016 - Reinaldo Ferraz: Lang e Alt: Atributos da Pesada](https://www.youtube.com/watch?time_continue=13&v=5FJJuEVt5sA)
+
 -[Podcast - Programar Sem Enxergar](https://hipsters.tech/programar-sem-enxergar-hipsters-82/)
 
 -[Podcast - Acessibilidade Web](https://hipsters.tech/acessibilidade-web-hipsters-21/)
 
+-[Estudo Brasileiro - 2018](http://www.estudoinclusivo.com.br/)
+
+-[Estudo Internacional - 2017](https://webaim.org/projects/screenreadersurvey7/)
+
 -[Todos@Web - Prêmio Nacional de Acessibilidade na Web](http://premio.ceweb.br/index.htm)
+
+-[Ler cifra em Braile e tocar violão](https://vimeo.com/272766414)
 
 ### Artigos 2018 a 2019
 
