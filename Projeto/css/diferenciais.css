@@ -27,23 +27,6 @@
   text-transform: uppercase;
 }
 
-.diferenciais__dif-titulo--tempo {
-  background-image: url(../img/icone-relogio.png);
-}
-
-
-.diferenciais__dif-titulo--foco {
-  background-image: url(../img/icone-dinheiro.png);
-}
-
-
-.diferenciais__dif-titulo--especialistas {
-  background-image: url(../img/icone-quimica.png);
-}
-
-
-
-
 @media (min-width: 830px) {
 
 
