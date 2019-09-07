@@ -2,9 +2,9 @@
 ## PrograMaria Summit 2019
 
 Repositório destinado à organização e exemplificação de conteúdo para Palestra no PrograMaria Summit 2019.
-O repositório será atualizado ao longo do tempo, assim como o projeto de referência. Além disso, o projeto é fruto de estudos e formações em cursos - portanto, não é totalmente original. 
+O repositório será atualizado ao longo do tempo, assim como o projeto de referência. Além disso, o projeto é fruto de estudos e formações em cursos - portanto, não é totalmente original.
 
-<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="1500" width="1500">
+<img src="https://i.pinimg.com/originals/db/f5/5b/dbf55b84a1c9f6e635b567ba7327a269.jpg" height="500" width="500">
 
 ---
 
@@ -52,7 +52,7 @@ Inserir aqui definição
 
 Princípios aplicados na idealização de um site web e no seu design.
 
-<img src="https://miro.medium.com/max/1000/1*gRVRhuUwG12_9Xl7GwH1TA.png" height="400" width="400">
+<img src="https://miro.medium.com/max/1000/1*gRVRhuUwG12_9Xl7GwH1TA.png" height="900" width="900">
 
 
 ## Acessibilidade & User Experience (UX)
