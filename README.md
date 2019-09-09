@@ -11,10 +11,11 @@ O repositório será atualizado ao longo do tempo, assim como o projeto de refer
 ## Acessibilidade
 
 ### O que é
-Inserir aqui definição
+Acessibilidade diz sobre a prática de desenvolver websites que possam ser acessados por pessoas com deficiências físicas, condições/transtornos cognitivos e que tenham alguma questõa que as impeçam de acessar websites da maneira como usualmente são desenvolvidos (como por exemplo, diferente tipos de hardware)
 
 ### Acessibilidade Web
-Inserir aqui definição
+Diretrizes e Boas Práticas
+
 - [WCAG 2.0](https://www.w3.org/Translations/WCAG20-pt-PT/);
 
 - [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
@@ -49,10 +50,9 @@ Inserir aqui definição
 
 
 ## Acessibilidade & Design
-
 Princípios aplicados na idealização de um site web e no seu design.
 
-<img src="https://miro.medium.com/max/1000/1*gRVRhuUwG12_9Xl7GwH1TA.png" height="900" width="900">
+<img src="https://miro.medium.com/max/1000/1*gRVRhuUwG12_9Xl7GwH1TA.png" height="800" width="800">
 
 
 ## Acessibilidade & User Experience (UX)
@@ -84,41 +84,41 @@ O uso de leitores de tela pode ser indicado para teste do website. Alguns conhec
 
 ## Mais alguns Links Úteis e Curiosidades
 
--[Cartilha: Acessibilidade na Web (inclui informações legais e dados)](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-II.pdf)
+[Cartilha: Acessibilidade na Web (inclui informações legais e dados)](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-II.pdf)
 
-- [Web Accessibility, WCGA 2.0, and Drupal 8](https://devvly.com/entry/web-accessibility-wcga-2-0-and-drupal-8)
+[Web Accessibility, WCGA 2.0, and Drupal 8](https://devvly.com/entry/web-accessibility-wcga-2-0-and-drupal-8)
 
-- [Drupal](https://www.drupal.org/try-drupal)
+[Drupal](https://www.drupal.org/try-drupal)
 
--[HandTalk - Oferecemos tradução digital para acessibilidade em Libras, a Língua Brasileira de Sinais.](https://www.handtalk.me/)
+[HandTalk - Oferecemos tradução digital para acessibilidade em Libras, a Língua Brasileira de Sinais.](https://www.handtalk.me/)
 
--[IA do Facebook para reconhecimento de imagens](https://ai.facebook.com/tools/detectron/)
+[IA do Facebook para reconhecimento de imagens](https://ai.facebook.com/tools/detectron/)
 
--[Web Accessibility Standards (WAS)](https://accessible.org/was/)
+[Web Accessibility Standards (WAS)](https://accessible.org/was/)
 
--[Formação Carreira Acessibilidade Alura](https://cursos.alura.com.br/formacao-acessibilidade-web)
+[Formação Carreira Acessibilidade Alura](https://cursos.alura.com.br/formacao-acessibilidade-web)
 
--[Cursos sobre Acessibilidade na Udemy](https://hipsters.tech/acessibilidade-web-hipsters-21/)
+[Cursos sobre Acessibilidade na Udemy](https://hipsters.tech/acessibilidade-web-hipsters-21/)
 
--[HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+[HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 
--[Arial-Label atribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
+[Arial-Label atribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
 
--[Acessibilidade, SEO e SVG](http://www.reinaldoferraz.com.br/acessibilidade-seo-e-svg/)
+[Acessibilidade, SEO e SVG](http://www.reinaldoferraz.com.br/acessibilidade-seo-e-svg/)
 
--[Frontinsampa 2016 - Reinaldo Ferraz: Lang e Alt: Atributos da Pesada](https://www.youtube.com/watch?time_continue=13&v=5FJJuEVt5sA)
+[Frontinsampa 2016 - Reinaldo Ferraz: Lang e Alt: Atributos da Pesada](https://www.youtube.com/watch?time_continue=13&v=5FJJuEVt5sA)
 
--[Podcast - Programar Sem Enxergar](https://hipsters.tech/programar-sem-enxergar-hipsters-82/)
+[Podcast - Programar Sem Enxergar](https://hipsters.tech/programar-sem-enxergar-hipsters-82/)
 
--[Podcast - Acessibilidade Web](https://hipsters.tech/acessibilidade-web-hipsters-21/)
+[Podcast - Acessibilidade Web](https://hipsters.tech/acessibilidade-web-hipsters-21/)
 
--[Estudo Brasileiro - 2018](http://www.estudoinclusivo.com.br/)
+[Estudo Brasileiro - 2018](http://www.estudoinclusivo.com.br/)
 
--[Estudo Internacional - 2017](https://webaim.org/projects/screenreadersurvey7/)
+[Estudo Internacional - 2017](https://webaim.org/projects/screenreadersurvey7/)
 
--[Todos@Web - Prêmio Nacional de Acessibilidade na Web](http://premio.ceweb.br/index.htm)
+[Todos@Web - Prêmio Nacional de Acessibilidade na Web](http://premio.ceweb.br/index.htm)
 
--[Ler cifra em Braile e tocar violão](https://vimeo.com/272766414)
+[Ler cifra em Braile e tocar violão](https://vimeo.com/272766414)
 
 ### Artigos 2018 a 2019
 
