@@ -13,6 +13,28 @@ O repositório será atualizado ao longo do tempo, assim como o projeto de refer
 ### O que é
 Acessibilidade diz sobre a prática de desenvolver websites que possam ser acessados por pessoas com deficiências físicas, condições/transtornos cognitivos e que tenham alguma questõa que as impeçam de acessar websites da maneira como usualmente são desenvolvidos (como por exemplo, diferente tipos de hardware)
 
+### Acessibilidade Web e Leis
+
+LEI Nº 10.098
+Mais informações da Lei Nº 10.098 de 19 de dezembro de 2000 
+
+Após a promulgação da Constituição, a Lei nº 10.098 foi o primeiro avanço efetivo na legislação brasileira em relação à acessibilidade. Ela estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida e dá outras providências.
+
+Essa lei foi regulamentada pelo Decreto nº 5.296, de 2 de dezembro de 2004. Este decreto representou um grande avanço, pois estabelece, no seu conceito de acessibilidade, a “utilização, com segurança e autonomia, […] dos dispositivos, sistemas e meios de comunicação e informação”. Estabelece, ainda, que são:
+
+“d) barreiras nas comunicações e informações: qualquer entrave ou obstáculo que dificulte ou impossibilite a expressão ou o recebimento de mensagens por intermédio dos dispositivos, meios ou sistemas de comunicação, sejam ou não de massa, bem como aqueles que dificultem ou impossibilitem o acesso à informação.”
+
+Ao tratar especificamente do acesso à Internet, em seu Artigo 47, o Decreto nº 5.296/2004 estabelece que:
+
+“No prazo de até doze meses a contar da data de publicação deste Decreto, será obrigatória a acessibilidade nos portais e sítios eletrônicos da administração pública na rede mundial de computadores (internet), para o uso das pessoas portadoras de deficiência visual, garantindo-lhes o pleno acesso às informações disponíveis.”
+
+Apesar de representar um importante avanço para a acessibilidade na Web, esse decreto apresenta duas grandes limitações.
+
+– Está restrito às pessoas com deficiência visual, em vez de garantir a acessibilidade a todos os cidadãos, ou ao menos a todas as pessoas com deficiência, que são as mais prejudicadas;
+– Está restrito aos sites da administração pública.
+
+-Fonte [https://mwpt.com.br/acessibilidade-digital/leis-federais-sobre-acessibilidade-na-web/]
+
 ### Acessibilidade Web
 Diretrizes e Boas Práticas
 
@@ -73,10 +95,11 @@ O uso de leitores de tela pode ser indicado para teste do website. Alguns conhec
 ## Acessibilidade & Futuro
 
 
-
 ### Acessibilidade Web Cognitiva
 
+A Acessibilidade Web Cognitiva estuda aspectos e condições que podem afetar as pessoas com deficiências cognitivas na realização de tarefas em websites.
 
+-Entrevista com Talita Pagani, uma das apoiadoras do Web Para Todos [https://mwpt.com.br/talita-pagani-em-relacao-acessibilidade-web-cognitiva-compreensao-sobre-o-assunto-ainda-esta-aquem-do-necessario/]
 
 ### Acessibilidade nas Ferramentas de Desenvolvimento
 
